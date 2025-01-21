@@ -1,6 +1,6 @@
 Integrantes:
-Michael Stwar Murillo Ruiz
-Sarly Samira Naranjo
+Michael Stwar Murillo Ruiz, 
+Sarly Samira Naranjo, 
 Dario Restrepo Landazury
 
 
